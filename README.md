@@ -5,7 +5,7 @@ I'm a freelance software engineer
 - 🔭 I’m currently working on flutter UI per week
 - 🌱 I’m learning how to make games
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about UX and UI.
+- 💬 Ask me about Flutter, UX and UI.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I collect music album
 
